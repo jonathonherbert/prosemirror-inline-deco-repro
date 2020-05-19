@@ -1,6 +1,5 @@
 body {
   font-family: sans-serif;
-  font-size: 48px;
   line-height: 1.5;
 }
 
@@ -22,6 +21,27 @@ body {
   background-color: pink;
   /* margin: 0 1px; */
   padding: 20px;
-  line-height: 1.5;
   display: inline;
+}
+
+.test-deco-inline {
+  display: inline;
+  line-height: 1.5;
+}
+
+.test-deco-inline-block {
+  display: inline-block;
+}
+
+.test-mark {
+  background-color: powderblue;
+}
+
+.ProseMirror {
+  font-size: 24px;
+}
+
+.debug {
+  font-size: 12px;
+  margin-bottom: 60px;
 }

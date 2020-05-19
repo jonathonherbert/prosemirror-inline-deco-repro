@@ -8,16 +8,16 @@
   },
   "dependencies": {
     "prosemirror-example-setup": "1.1.2",
-    "prosemirror-model": "1.6.3",
+    "prosemirror-model": "1.9.1",
     "prosemirror-schema-basic": "1.1.2",
-    "prosemirror-state": "1.2.2",
-    "prosemirror-view": "1.6.7"
+    "prosemirror-state": "1.3.3",
+    "prosemirror-view": "1.14.10"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
-    "@types/prosemirror-model": "1.5.0",
-    "@types/prosemirror-state": "1.2.0",
-    "@types/prosemirror-view": "1.3.0",
+    "@types/prosemirror-model": "1.7.2",
+    "@types/prosemirror-state": "1.2.4",
+    "@types/prosemirror-view": "1.11.4",
     "parcel-bundler": "^1.6.1"
   }
 }
