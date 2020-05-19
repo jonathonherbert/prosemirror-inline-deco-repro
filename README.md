@@ -1,5 +1,7 @@
 # prosemirror-inline-deco-repro
-Reproduction of an issue with interaction between marks and widget decorations in the Prosemirror text editor
+Reproduction of an issue with interaction between marks and widget decorations in the Prosemirror text editor.
+
+Demo [here](https://jonathonherbert.github.io/prosemirror-inline-deco-repro/).
 
 ## Setup and run
 
