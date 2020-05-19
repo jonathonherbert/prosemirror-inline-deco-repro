@@ -1,0 +1,23 @@
+{
+  "name": "prosemirror-example",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "prosemirror-example-setup": "1.1.2",
+    "prosemirror-model": "1.6.3",
+    "prosemirror-schema-basic": "1.1.2",
+    "prosemirror-state": "1.2.2",
+    "prosemirror-view": "1.6.7"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@types/prosemirror-model": "1.5.0",
+    "@types/prosemirror-state": "1.2.0",
+    "@types/prosemirror-view": "1.3.0",
+    "parcel-bundler": "^1.6.1"
+  }
+}
