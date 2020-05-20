@@ -11,7 +11,7 @@ Clone and install dependencies with `npm i`. Start the app with `npm run start`.
 
 Move the caret through the widget decorations with your arrow keys from left to right, and back again. The intent is to step through each widget decoration as keys are pressed until the caret has passed them all, after which it behaves as normal.
 
-I haven't written code to handle starting from rhs to lhs to keep the code to a minimum! As a result, clicking into arbitrary positions is beyond the scope of this demo, and may produce odd results.
+I haven't written code to handle starting from rhs to lhs to keep the lines to a minimum! As a result, clicking into arbitrary positions is beyond the scope of this demo, and may produce odd results.
 
 Different styling for the spans in question produce different behaviour:
 
