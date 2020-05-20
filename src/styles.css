@@ -19,9 +19,10 @@ body {
 
 .test-deco {
   background-color: pink;
-  /* margin: 0 1px; */
   padding: 20px;
+  margin: 0 1px;
   display: inline;
+  border: 1px solid red;
 }
 
 .test-deco-inline {
